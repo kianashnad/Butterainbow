@@ -1,4 +1,4 @@
-![](https://github.com/kianashnad/Butterainbow/blob/main/banner.jpg)
+![](https://github.com/kianashnad/Butterainbow/blob/main/cover.jpg)
 
 # Butterainbow
 You will need OpenRGB, install it then from the SDK Server tab, start the server. Then run the script.
